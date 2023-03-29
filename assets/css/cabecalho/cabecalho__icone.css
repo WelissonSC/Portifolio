@@ -1,0 +1,11 @@
+.cabecalho__icone {
+    height: 3rem;
+    width: 3rem;
+}
+
+@media screen and (min-width: 375px) {
+    .cabecalho__icone {
+        height: 2rem;
+        width: 2rem;
+    }
+}

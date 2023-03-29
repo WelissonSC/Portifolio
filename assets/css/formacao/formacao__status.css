@@ -1,0 +1,25 @@
+.formacao__status {
+    padding-top: 0.2rem;
+    font-size: 0.8rem;
+}
+
+
+@media screen and (min-width: 375px){
+    .formacao__status {
+        font-size: 0.7rem;
+        padding-top: 0.3rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .formacao__status {
+        padding-top: 0.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .formacao__status {
+        font-size: 0.9rem;
+        padding-top: 0.5rem;
+    }
+}

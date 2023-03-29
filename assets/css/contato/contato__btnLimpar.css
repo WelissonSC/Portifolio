@@ -1,0 +1,30 @@
+.contato__btnLimpar {
+    cursor: pointer;
+    color: var(--bg-links);
+    border: 2px solid var(--bg-links);
+    font-size: 0.9rem;
+}
+
+@media screen and (min-width: 375px) {
+    .contato__btnLimpar {
+        font-size: 0.8rem;
+        margin-left: 3.7rem;
+        padding: 1rem;
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .contato__btnLimpar {
+        padding: 1rem;
+        margin-left: 19%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contato__btnLimpar {
+        margin-left: 1.5rem;
+        padding: 1rem;
+        width: 35%;
+    }
+}

@@ -1,0 +1,7 @@
+.contato__formularioArea {
+    display: flex;
+    width: 100%;
+}
+.contato__form {
+    margin-top: -5rem;
+}

@@ -1,0 +1,6 @@
+.principal__conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    text-align: left;
+}

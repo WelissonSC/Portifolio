@@ -1,0 +1,16 @@
+.contato__formulario {
+    margin-top: 13rem;
+}
+
+@media screen and (min-width: 375px) {
+    .contato__formulario {
+        padding-left: 1.2rem;
+        padding-right: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contato__formulario {
+        padding: 0;
+    }
+}

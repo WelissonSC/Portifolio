@@ -1,0 +1,15 @@
+.hobies {
+    background: var(--bege);
+}
+
+@media screen and (max-width: 768px) {
+    .hobies {
+        padding-bottom: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .hobies {
+        padding-bottom: 3rem;
+    }
+}

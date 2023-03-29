@@ -1,0 +1,37 @@
+Modelo figna 
+https://www.figma.com/file/Mv4mSxBHzB5caI7bW2tLv6/Challenge-Front-end-Portf%C3%B3lio?t=JPvwqFAcEJwbWxfV-0
+trelo 
+https://trello.com/b/2IYvhV2b/alura-chalenge-portifolio
+
+ativador formulario 
+action="https://formsubmit.co/f3e09d4a5e966121cc9cc2051eee8667"
+
+
+menu-nav
+Sobre-mim
+Skils
+Hobbies
+Formação
+Projetos
+
+main
+Olá, meu nome é Welisson da Silva Cunha e construo páginas web
+
+Eu estou cursando Sistemas para internet pelo IFB e atualmente estou participando no projeto Oracle ONE na Alura.
+
+lista
+Github
+Linkedin
+Instagram
+Currículo
+
+Sobre mim
+Sou um jovem de 25 anos, casado e apaixonado por tecnologia, e sei do potencial que ela tem para mudar as vidas das pessoas, por isso venho me dedicando a essa área, pois meu objetivo é me tonar um profissional Full Stack Developer, para ajudar a trazer soluções que sejam capazes de inovar a vida da humanidade.
+Sei que a caminhada é longa por isso atualmente tenho me dedicado a área de front end, optei começar por essa área pela afinidade que tenho com layouts, designers, e experiência do usuário, estou fazendo curso tecnólogo em Sistemas para internet pelo IFB campus Brasília, tem sido um desafio, mas de certo modo um desafio muito bom, também estou tendo a oportunidade de fazer parte do projeto Oracle ONE na Alura na especialização de front end com conhecimentos de HTML5, CSS, JS, React e outras softwares skills. 
+Atualmente estou buscando uma vaga no mercado de trabalho na área de front end nos níveis treine, estagiário ou júnior e logo abaixo estarão algumas das experiências que tive durante este período de preparação e estudos e ao decorrer do tempo mais projetos serão postados, então fique à vontade para saber mais sobre minhas experiencias profissionais. Se quiser entrar em contato ou dar qualquer sugestão é só me enviar no campo de contato. 
+
+
+Skills
+
+ONDE PAREI!
+implementar estilização da area de experiencia 

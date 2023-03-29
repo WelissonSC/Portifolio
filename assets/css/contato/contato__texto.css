@@ -1,0 +1,16 @@
+.contato__texto {
+    color: var(--cor-fonte);
+    padding-top: 3rem;
+}
+
+@media screen and (min-width: 375px) {
+    .contato__texto {
+        font-size: 0.85rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contato__texto {
+        font-size: 1rem;
+    }
+}

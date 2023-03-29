@@ -1,0 +1,53 @@
+.experiencia__titulodescricao {
+    font-weight: 700;
+    margin-top: 10rem;
+}
+
+.experiencia__titulodescricao-2 {
+    font-weight: 700;
+    margin-top: 10rem;
+    position: absolute; 
+}
+
+@media screen and (min-width: 375px) {
+    .experiencia__titulodescricao{
+        margin: 10rem 0rem 0rem 25%;
+        position: absolute;
+    }
+
+    .experiencia__titulodescricao-2 {
+        margin-left: 35%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experiencia__titulodescricao {
+        font-size: 1rem;
+        margin: 3rem auto;
+        text-align: center;
+        width: 100%;
+    }
+
+    .experiencia__titulodescricao-2 {
+        font-size: 1rem;
+        margin: 1rem auto;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__titulodescricao{
+        font-size: 1.2rem;
+        margin: 8rem 0;
+        max-width: 100%;
+        text-align: left;
+    }
+
+    .experiencia__titulodescricao-2 {
+        font-size: 1.2rem;
+        margin: 8rem 0;
+        text-align: left;
+    }
+}

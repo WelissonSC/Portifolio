@@ -1,0 +1,9 @@
+.experiencia__links {
+    display: flex;
+    padding-top: 6rem;
+    padding-left: 106%;
+}
+
+.experiencia__link-2 {
+    display: flex;
+}

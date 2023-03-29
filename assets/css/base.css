@@ -1,0 +1,48 @@
+:root {
+    --verde-claro: #c2ecd6;
+    --bege: #F5F5F5;
+    --cor-fonte: #464646;
+    --fonte: 'Raleway', sans-serif;
+    --branco: #FFF;
+    --branco-acizentado: #fbfbfb;
+    --cor: #4dca89;
+    --bg-icones: #e2e2e2;
+    --bg-links: #74ba96;
+    --bg-links-hover: #4aa275;
+    --font-formulario: #5b5b5b;
+    --btn-focus: #487c61;
+}
+
+html,
+body {
+    scroll-behavior: smooth;
+    font-family: var(--fonte);
+    /* overflow-x: hidden; */
+}
+
+
+
+@media (min-width: 375px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .container {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        padding-right: 5.5rem;
+        padding-left: 5.5rem;
+        font-family: var(--fonte);
+    }
+
+}

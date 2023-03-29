@@ -1,0 +1,97 @@
+.experiencia__caixa {
+    background: url(/assets/img/experiencia/decodificador.png) no-repeat;
+    background-position: center;
+    box-shadow: 0px 10px 14px -5px rgb(0 0 0 / 75%);
+    display: flex;
+    margin-bottom: 2rem;
+    width: 65%;
+}
+
+.experiencia__caixa-2 {
+    background: url(/assets/img/experiencia/pongprint.png) no-repeat;
+    background-position: center;
+    box-shadow: 0px 10px 14px -5px rgb(0 0 0 / 75%);
+    display: flex;
+    margin-bottom: 3rem;
+    width: 65%;
+    margin-left: auto;
+    margin-top: 3rem;
+}
+
+.experiencia__caixa-3 {
+    background: url(/assets/img/experiencia/ladingpage.png) no-repeat;
+    background-position: center;
+    box-shadow: 0px 10px 14px -5px rgb(0 0 0 / 75%);
+    display: flex;
+    margin-bottom: 2rem;
+    width: 65%;
+}
+
+@media screen and (min-width: 375px) {
+    .experiencia__caixa {
+        background-size: 90%;
+        height: 15rem;
+        width: 100%;
+    }
+
+    .experiencia__caixa-2 {
+        background-size: 90%;
+        margin: 13rem 0;
+        height: 15rem;
+        width: 100%;
+    }
+
+    .experiencia__caixa-3 {
+        background-size: 90%;
+        margin-top: 15rem;
+        height: 15rem;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experiencia__caixa {
+        background-size: 90%;
+        height: 22rem;
+        width: 100%;
+    }
+
+    .experiencia__caixa-2 {
+        margin-top: 15rem;
+        height: 22rem;
+        width: 100%;
+    }
+
+    .experiencia__caixa-3 {
+        margin-top: 15rem;
+        height: 22rem;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__caixa {
+        align-items: center;
+        background-size: 100%;
+        height: 25rem;
+        width: 55%;
+    }
+
+    .experiencia__caixa-2 {
+        align-items: center;
+        background-size: 100%;
+        flex-direction: row-reverse;
+        height: 25rem;
+        margin-left: 45%;
+        margin-top: 5rem;
+        width: 55%;
+    }
+
+    .experiencia__caixa-3 {
+        align-items: center;
+        background-size: 100%;
+        height: 25rem;
+        margin-top: -8rem;
+        width: 55%;
+    }
+}

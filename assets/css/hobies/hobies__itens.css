@@ -1,0 +1,27 @@
+.hobies__itens {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media screen and (min-width: 375px) {
+    .hobies__itens {
+        padding-left: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .hobies__itens {
+        justify-content: flex-start;
+        padding-left: 2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .hobies__itens {
+        flex-wrap: nowrap;
+        justify-content: center;
+        padding: 1rem;
+    }
+}

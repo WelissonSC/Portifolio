@@ -1,0 +1,48 @@
+
+@media screen and (min-width: 375px) {
+    .menu__itens {
+        display: none;
+    }
+
+    .menu__itens:last-child {
+        font-size: 0.7rem;
+        font-weight: 700;
+        display: block;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .menu__itens {
+
+        display: none;
+    }
+
+    .menu__itens:last-child {
+        font-size: 1rem;
+        font-weight: 700;
+        display: block;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .menu__itens {
+        display: block;
+        font-family: var(--fonte);
+        font-size: 0.89rem;
+        font-weight: 500;
+        padding-right: 2rem;
+        transition: color 2s ease-out 100ms
+    }
+    
+    .menu__itens:last-child {
+        font-weight: 700;
+        padding: 0;
+    }
+    
+    .menu__itens a:hover {
+        color: #2b9139;
+        text-decoration: underline;
+    }    
+}
+
+

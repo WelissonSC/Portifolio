@@ -1,0 +1,27 @@
+.formacao__caixas {
+    background: var(--branco-acizentado);
+    border-radius: 5%;
+    margin-right: 1rem;
+    margin-bottom: 5rem;
+}
+
+@media screen and (min-width: 375px) {
+    .formacao__caixas {
+        height: 10rem;
+        width: 18rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .formacao__caixas {
+        width: 18rem;
+        height: 10rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .formacao__caixas {
+        width: 20rem;
+        height: 13rem;
+    }
+}

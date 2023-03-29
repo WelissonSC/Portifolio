@@ -1,0 +1,42 @@
+.formacao__logos {
+    position: absolute;
+    width: 21%;
+}
+
+.formacao__logos-one {
+    margin: 1% 0% 0% -2%;
+    position: absolute;
+    width: 26%;
+}
+
+@media screen and (min-width: 375px) {
+    .formacao__logos {
+        margin: -3rem 0rem 0rem 0rem;
+        width: 16rem;
+    }
+
+    .formacao__logos-one {
+        margin: -0.5rem 0rem 0rem -1.5rem;
+        width: 20rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .formacao__logos {
+        margin: -3rem 0rem 0rem 0rem;
+    }
+
+    .formacao__logos-one {
+        margin: 0rem 0rem 0rem -1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .formacao__logos {
+        margin: -2rem 0rem 0rem 0rem;
+    }
+
+    .formacao__logos-one {
+        margin: 1rem 0rem 0rem 0rem;
+    }
+}

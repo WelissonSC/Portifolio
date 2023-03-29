@@ -1,0 +1,30 @@
+.fomacao__itens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+@media screen and (min-width: 375px) {
+    .fomacao__itens {
+        flex-direction: column;
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .fomacao__itens {
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .fomacao__itens {
+        flex-direction: row;
+        justify-content: center;
+        padding-bottom: 2rem;
+    }
+}

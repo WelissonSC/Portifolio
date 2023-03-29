@@ -1,0 +1,29 @@
+.skills__caixa {
+    background: var(--bg-icones);
+    border-radius: 10%;
+    height: 8rem;
+    margin-bottom: 5rem;
+    margin-right: 0.8rem;
+    width: 9rem;
+}
+
+@media screen and (min-width: 375px) {
+    .skills__caixa {
+        margin-bottom: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .skills__caixa {
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+        width: 13rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .skills__caixa {
+        margin-bottom: 1rem;
+        width: 9rem;
+    }
+}

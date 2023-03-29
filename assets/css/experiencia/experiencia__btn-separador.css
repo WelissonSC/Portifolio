@@ -1,0 +1,20 @@
+
+
+@media screen and (min-width: 375px){
+    .experiencia__btn-separador {
+        padding: 0;
+    }
+}
+
+
+@media screen and (min-width: 768px){
+    .experiencia__btn-separador {
+        margin-left: -2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__btn-separador {
+        margin-left: 1rem;
+    }
+}

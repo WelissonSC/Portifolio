@@ -1,0 +1,26 @@
+.experiencia__titulo {
+    color: var(--cor-fonte);
+    font-weight: 700;
+    font-size: 1.8rem;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+@media screen and (min-width: 375px) {
+    .experiencia__titulo {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experiencia__titulo {
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__titulo {
+        font-size: 2rem;
+    }
+}

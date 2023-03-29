@@ -1,0 +1,53 @@
+.experiencia__descricao {
+    margin-top: 12rem;
+    font-size: 0.9rem;
+}
+
+.experiencia__descricao-2 {
+    margin-top: 12rem;
+    font-size: 0.9rem;
+    position: absolute;
+}
+
+@media screen and (min-width: 375px) {
+    .experiencia__descricao {
+        font-size: 0.8rem;
+        margin: 12rem 25%;
+        position: absolute;
+    }
+
+    .experiencia__descricao-2 {
+        font-size: 0.8rem;
+        margin-left: 30%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experiencia__descricao {
+        font-size: 1rem;
+        margin: 5rem auto;
+        text-align: center;
+        width: 100%;
+    }
+
+    .experiencia__descricao-2 {
+        font-size: 1rem;
+        margin: 3rem 37%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__descricao {
+        font-size: 0.8rem;
+        margin: 10rem 0rem;
+        text-align: left;
+        max-width: 100%;
+    }
+
+    .experiencia__descricao-2 {
+        font-size: 0.8rem;
+        margin: 10rem 0rem;
+    }
+}

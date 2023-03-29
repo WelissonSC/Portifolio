@@ -1,0 +1,28 @@
+.hobies__caixa {
+    background: var(--bg-icones);
+    border-radius: 10%;
+    height: 8rem;
+}
+
+@media screen and (min-width: 375px){
+    .hobies__caixa {
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+        width: 9rem;
+    }
+}   
+
+@media screen and (min-width: 768px){
+    .hobies__caixa {
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+        width: 13rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .hobies__caixa{
+        margin-bottom: 2rem;
+        width: 9rem;
+    }
+}

@@ -1,0 +1,12 @@
+.contato__titulo {
+    color: var(--cor-fonte);
+    font-weight: 700;
+    font-size: 1.5rem;
+    position: absolute;
+}
+
+@media screen and (min-width: 375px) {
+    .contato__titulo {
+        font-size: 1.6rem;
+    }
+}

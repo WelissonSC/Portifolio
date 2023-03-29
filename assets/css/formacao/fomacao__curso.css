@@ -1,0 +1,25 @@
+.fomacao__curso {
+    padding-top: 13.5rem;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+@media screen and (min-width: 375px) {
+    .fomacao__curso {
+        padding-top: 10.5rem;
+        font-size: 0.85rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .fomacao__curso {
+        padding-top: 10.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .fomacao__curso {
+        font-size: 1rem;
+        padding-top: 14rem;
+    }
+}

@@ -1,0 +1,28 @@
+.sobreMim__descricao {
+    color: var(--cor-fonte);
+    font-size: 0.95rem;
+    padding-bottom: 3rem;
+    padding-right: 22rem;
+} 
+
+
+@media screen and (min-width: 375px) {
+    .sobreMim__descricao {
+        font-size: 0.85rem;
+        padding-right: 0;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .sobreMim__descricao {
+        font-size: 0.9rem;
+        padding-right: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sobreMim__descricao {
+        font-size: 1rem;
+    }
+}

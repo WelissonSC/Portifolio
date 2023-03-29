@@ -1,0 +1,55 @@
+.experiencia__caixaDescricao {
+    display: flex;
+    height: 22rem;
+    margin-left: 50%;
+    position: absolute;
+    width: 25%;
+}
+
+.experiencia__caixaDescricao-2 {
+    display: flex;
+    height: 22rem;
+    margin-right: 50%;
+    position: absolute;
+    width: 25%;
+}
+
+@media screen and (min-width: 375px) {
+    .experiencia__caixaDescricao {
+        padding-top: 7rem;
+        margin: 0;
+        width: 90%;
+    }
+
+    .experiencia__caixaDescricao-2 {
+        padding-top: 7rem;
+        margin: 0;
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experiencia__caixaDescricao {
+        padding-top: 20.5rem;
+    }
+
+    .experiencia__caixaDescricao-2 {
+        padding-top: 22.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__caixaDescricao {
+        justify-content: space-between;
+        padding: 0;
+        margin-left: 50%;
+        width: 20rem;
+    }
+
+    .experiencia__caixaDescricao-2 {
+        justify-content: space-between;
+        padding: 0;
+        margin-right: 50%;
+        width: 20rem;
+    }
+}

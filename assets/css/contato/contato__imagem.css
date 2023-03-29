@@ -1,0 +1,11 @@
+.contato__imagem {
+    width: 35%;
+    margin-top: 8rem;
+    margin-right: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .contato__imagem {
+        display: none;
+    }
+}

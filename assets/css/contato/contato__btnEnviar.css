@@ -1,0 +1,28 @@
+.contato__btnEnviar {
+    background-color: var(--bg-links);
+    border: 2px solid var(--bg-links);
+    color: #FFF;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 375px) {
+    .contato__btnEnviar {
+        font-size: 0.7rem;
+        padding: 1rem;
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .contato__btnEnviar {
+        padding: 1rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contato__btnEnviar {
+        font-size: 0.9rem;
+        padding: 1rem;
+        width: 35%;
+    }
+}

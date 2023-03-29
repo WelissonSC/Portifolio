@@ -1,0 +1,19 @@
+.contato__label {
+    color: var(--font-formulario);
+    display: block;
+    font-size: 0.9rem;
+    position: absolute;
+    padding-top: 1.8rem;
+    padding-left: 1rem;
+    border: none;
+}
+
+.contato__label:focus {
+    border: none;
+}
+
+@media screen and (min-width: 375px) {
+    .contato__label {
+        font-size: 0.78rem;
+    }
+}

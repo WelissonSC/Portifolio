@@ -1,0 +1,28 @@
+.experiencia {
+    background: var(--bege);
+    padding-bottom: 2rem;
+}
+
+@media screen and (min-width: 375px) {
+    .experiencia {
+        padding-bottom: 12rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experiencia {
+        padding-bottom: 14rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia {
+        padding-right: 5rem;
+        padding-left: 5rem;
+        padding-bottom: 5rem;
+    }
+}

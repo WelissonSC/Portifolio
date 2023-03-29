@@ -1,0 +1,19 @@
+.cabecalho__nome {
+    font-weight: 700;
+    margin-left: 3rem;
+    position: absolute;
+}
+
+@media screen and (min-width: 375px) {
+    .cabecalho__nome {
+        font-size: 0.8rem;
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cabecalho__nome {
+        font-size: 1rem;
+        margin-left: 2rem;
+    }
+}
