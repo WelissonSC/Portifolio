@@ -6,5 +6,5 @@ Ele é responsivo e tem alguns conceitos de posicionamento com flex grid
 Tem um modal para exibir meu currículo
 
 Confira aqui 
-https://welissonsc.github.io/portfolio/
+https://welissonsc.github.io/Portifolio/
 
