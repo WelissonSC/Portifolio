@@ -1,5 +1,5 @@
 .experiencia__caixa {
-    background: url(/assets/img/experiencia/decodificador.png) no-repeat;
+    background: url(/Portifolio/assets/img/experiencia/decodificador.png) no-repeat;
     background-position: center;
     box-shadow: 0px 10px 14px -5px rgb(0 0 0 / 75%);
     display: flex;
@@ -8,7 +8,7 @@
 }
 
 .experiencia__caixa-2 {
-    background: url(/assets/img/experiencia/pongprint.png) no-repeat;
+    background: url(/Portifolio/assets/img/experiencia/pongprint.png) no-repeat;
     background-position: center;
     box-shadow: 0px 10px 14px -5px rgb(0 0 0 / 75%);
     display: flex;
@@ -19,7 +19,7 @@
 }
 
 .experiencia__caixa-3 {
-    background: url(/assets/img/experiencia/ladingpage.png) no-repeat;
+    background: url(/Portifolio/assets/img/experiencia/ladingpage.png) no-repeat;
     background-position: center;
     box-shadow: 0px 10px 14px -5px rgb(0 0 0 / 75%);
     display: flex;
