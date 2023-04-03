@@ -1,4 +1,6 @@
 
+
+
 @media screen and (min-width: 375px) {
     .menu__itens {
         display: none;
@@ -42,6 +44,8 @@
     .menu__itens a:hover {
         color: #2b9139;
         text-decoration: underline;
+        font-size: 0.98rem;
+        padding-right: .1rem;
     }    
 }
 

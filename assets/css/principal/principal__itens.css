@@ -20,25 +20,25 @@
         padding: 1.5rem 2rem 4rem 0rem;
     }
     .principal__itens:nth-child(1):hover {
-        background-image: url(/assets/img/principal/iconmonstr-github-1.svg);
+        background-image: url(/Portifolio/assets/img/principal/iconmonstr-github-1.svg);
         background-repeat: no-repeat;
         background-position: right 13% bottom 76%;
     }
 
     .principal__itens:nth-child(2):hover {
-        background-image: url(/assets/img/principal/icons8-linkedin-circled.svg);
+        background-image: url(/Portifolio/assets/img/principal/icons8-linkedin-circled.svg);
         background-repeat: no-repeat;
         background-position: right 4% bottom 76%;
     }
 
     .principal__itens:nth-child(3):hover {
-        background-image: url(/assets/img/principal/icons8-instagram.svg);
+        background-image: url(/Portifolio/assets/img/principal/icons8-instagram.svg);
         background-repeat: no-repeat;
         background-position: right 2% bottom 76%;
     }
 
     .principal__itens:nth-child(4):hover {
-        background-image: url(/assets/img/principal/curriculum-vitae-svgrepo-com.svg);
+        background-image: url(/Portifolio/assets/img/principal/curriculum-vitae-svgrepo-com.svg);
         background-repeat: no-repeat;
         background-position: right 14% bottom 74%;
         background-size: 22%;
@@ -51,25 +51,25 @@
     }
 
     .principal__itens:nth-child(1):hover {
-        background-image: url(/assets/img/principal/iconmonstr-github-1.svg);
+        background-image: url(/Portifolio/assets/img/principal/iconmonstr-github-1.svg);
         background-repeat: no-repeat;
         background-position: right 13% bottom 80%;
     }
 
     .principal__itens:nth-child(2):hover {
-        background-image: url(/assets/img/principal/icons8-linkedin-circled.svg);
+        background-image: url(/Portifolio/assets/img/principal/icons8-linkedin-circled.svg);
         background-repeat: no-repeat;
         background-position: right 4% bottom 80%;
     }
 
     .principal__itens:nth-child(3):hover {
-        background-image: url(/assets/img/principal/icons8-instagram.svg);
+        background-image: url(/Portifolio/assets/img/principal/icons8-instagram.svg);
         background-repeat: no-repeat;
         background-position: right 2% bottom 80%;
     }
 
     .principal__itens:nth-child(4):hover {
-        background-image: url(/assets/img/principal/curriculum-vitae-svgrepo-com.svg);
+        background-image: url(/Portifolio/assets/img/principal/curriculum-vitae-svgrepo-com.svg);
         background-repeat: no-repeat;
         background-position: right 14% bottom 74%;
         background-size: 22%;
@@ -83,25 +83,25 @@
     }
 
     .principal__itens:nth-child(1):hover {
-        background-image: url(/assets/img/principal/iconmonstr-github-1.svg);
+        background-image: url(/Portifolio/assets/img/principal/iconmonstr-github-1.svg);
         background-repeat: no-repeat;
         background-position: right 15% bottom 78%;
     }
 
     .principal__itens:nth-child(2):hover {
-        background-image: url(/assets/img/principal/icons8-linkedin-circled.svg);
+        background-image: url(/Portifolio/assets/img/principal/icons8-linkedin-circled.svg);
         background-repeat: no-repeat;
         background-position: right 6% bottom 78%;
     }
 
     .principal__itens:nth-child(3):hover {
-        background-image: url(/assets/img/principal/icons8-instagram.svg);
+        background-image: url(/Portifolio/assets/img/principal/icons8-instagram.svg);
         background-repeat: no-repeat;
         background-position: right 4% bottom 78%;
     }
 
     .principal__itens:nth-child(4):hover {
-        background-image: url(/assets/img/principal/curriculum-vitae-svgrepo-com.svg);
+        background-image: url(/Portifolio/assets/img/principal/curriculum-vitae-svgrepo-com.svg);
         background-repeat: no-repeat;
         background-position: right 15% bottom 75%;
         background-size: 22%;
